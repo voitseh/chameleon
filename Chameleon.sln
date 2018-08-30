@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{1A30C214-A750-4E08-57AA-C85A7FA01368}") = "Chameleon", "Assembly-CSharp.csproj", "{937CE79C-294E-FD37-7018-41D77E635847}"
+EndProject
+Project("{1A30C214-A750-4E08-57AA-C85A7FA01368}") = "Chameleon", "Assembly-CSharp-Editor.csproj", "{BC0357CA-B53C-56A5-7927-38DF676B9003}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{937CE79C-294E-FD37-7018-41D77E635847}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{937CE79C-294E-FD37-7018-41D77E635847}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{937CE79C-294E-FD37-7018-41D77E635847}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{937CE79C-294E-FD37-7018-41D77E635847}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC0357CA-B53C-56A5-7927-38DF676B9003}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC0357CA-B53C-56A5-7927-38DF676B9003}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC0357CA-B53C-56A5-7927-38DF676B9003}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC0357CA-B53C-56A5-7927-38DF676B9003}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

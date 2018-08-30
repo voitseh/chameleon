@@ -1,0 +1,45 @@
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.1]
+    Renderer: Intel(R) HD Graphics 3000 (ID=0x116)
+    Vendor:   Intel
+    VRAM:     848 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: F:\Desktop\Готові проекти Unity\Хаміліон\Chamilion_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading F:\Desktop\Готові проекти Unity\Хаміліон\Chamilion_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: F:\Desktop\Готові проекти Unity\Хаміліон\Chamilion_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading F:\Desktop\Готові проекти Unity\Хаміліон\Chamilion_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: F:\Desktop\Готові проекти Unity\Хаміліон\Chamilion_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading F:\Desktop\Готові проекти Unity\Хаміліон\Chamilion_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: F:\Desktop\Готові проекти Unity\Хаміліон\Chamilion_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading F:\Desktop\Готові проекти Unity\Хаміліон\Chamilion_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.097 seconds
+Platform assembly: F:\Desktop\Готові проекти Unity\Хаміліон\Chamilion_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: F:\Desktop\Готові проекти Unity\Хаміліон\Chamilion_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initialized touch support.
+UnloadTime: 1.706492 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 2638 -> priority: 1 
+NullReferenceException: Object reference not set to an instance of an object
+  at EnemyController.CreateInventory (UnityEngine.Transform pos) [0x00000] in <filename unknown>:0 
+  at ReactiveTarget.OnTriggerEnter2D (UnityEngine.Collider2D other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at EnemyController.CreateInventory (UnityEngine.Transform pos) [0x00000] in <filename unknown>:0 
+  at ReactiveTarget.OnTriggerEnter2D (UnityEngine.Collider2D other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at EnemyController.CreateInventory (UnityEngine.Transform pos) [0x00000] in <filename unknown>:0 
+  at ReactiveTarget.OnTriggerEnter2D (UnityEngine.Collider2D other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
